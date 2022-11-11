@@ -3,8 +3,8 @@
 
 <div align="center">
   <a href="https://github.com/omarcos0708">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omarcos0708&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarcos0708&layout=compact&langs_count=7&theme=calm"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omarcos0708&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarcos0708&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ## Some of the languages that I know or plan to learn
