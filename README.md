@@ -18,7 +18,7 @@
 </div>
 
   ## I'm from Brazil and study Science computation here.
-  i'm passionate about the science behind data and machine learning I'm looking for jobs or a way to help people through technology
+  ## I'm passionate about the science behind data and machine learning I'm looking for jobs or a way to help people through technology
   
  <div>
   <a href="https://www.linkedin.com/in/marcoscesarandrade/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
