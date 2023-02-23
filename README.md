@@ -19,7 +19,7 @@
 
   # I'm Brazilian computer science student looking for a great job were i can help people through technology.
   ### feel free to give my projects a feel, and maybe give me feedback, thks <3
-  
+  ## 
  <div>
   <a href="https://www.linkedin.com/in/marcoscesarandrade/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href = "mailto:cacocesar2020@gmail.com""><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
