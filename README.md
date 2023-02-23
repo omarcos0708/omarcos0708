@@ -1,4 +1,4 @@
-## HI i'm Marcos 
+## HI i'm Marcos, and welcome to my portfolio
 
 
 <div align="center">
@@ -17,7 +17,7 @@
   <img align="center" alt="cesar-numpy" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg">
 </div>
 
-  ## I'm from Brazil and study Science computation here. I'm passionate about the science behind data and machine learning I'm looking for jobs or a way to help people through technology
+  ## I'm Brazilian and computer science student looking for a great job were i can help people through technology
   
  <div>
   <a href="https://www.linkedin.com/in/marcoscesarandrade/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
