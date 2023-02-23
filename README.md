@@ -17,6 +17,7 @@
   <img align="center" alt="cesar-numpy" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg">
 </div>
 
+  ## I'm from Brazil, and study Science computation here, i'm passionate about the science behind data and machine learning I'm looking for jobs or a way to help people through technology
   ##
   
  <div>
