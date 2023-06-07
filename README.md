@@ -1,7 +1,7 @@
 # Olá 👋
 - 🌱 Atualmente estou aprendendo **Python, MLOps e Azure**
 - 💬 Me pergunte sobre **Power BI, Python, Aprendizado de máquina**
-- 📫 Entre em contato por **data.cesar2020@gmail.com**
+- 📫 Entrar em contato por aqui --> **data.cesar2020@gmail.com**
 <br>
 
 <div align="center">
