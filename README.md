@@ -13,7 +13,7 @@
   
 ### Minhas estatísticas:
   ![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=omarcos0708&theme=midnight-purple&&bg_color=00000000&hide_border=true&count_private=true&include_all_commits=true&show_icons=false)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omarcos0708&theme=midnight-purple&&bg_color=00000000&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omarcos0708&theme=midnight-purple&&bg_color=00000000&count-private=true&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   [![GitHub Streak](https://streak-stats.demolab.com?user=omarcos0708&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D&border=EB545400&background=45%2CEB545400%2CEB545400)](https://git.io/streak-stats&show_icons=true)
   
 </div>
