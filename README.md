@@ -1,5 +1,5 @@
 # Olá 👋
-- 🌱 Atualmente estou aprendendo **Visão computacional, MLops e Cloud Computing**
+- 🌱 Atualmente estou aprendendo **Visão computacional**
 - 💬 Me pergunte sobre **Python, Aprendizado de máquina e I.A's**
 - 📫 Entrar em contato por aqui --> **data.cesar2020@gmail.com**
 <br>
