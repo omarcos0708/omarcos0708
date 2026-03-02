@@ -3,10 +3,7 @@
 - 💬 Me pergunte sobre **Visão computacional, Deep Learning, IA's e projetos P&D**
 - 📫 Entrar em contato por aqui --> **cacocesar2020@gmail.com**
 <br>
-<h2 align="center">Cientista de dados.</h2>
-<div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="">
-</div>
+<h2 align="center">Cientista de dados Jr.</h2>
 
 
 <div align="center">
